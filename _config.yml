@@ -11,9 +11,9 @@ title                    : "Ruvianne Mercado"
 title_separator          : "-"
 name                     : &name "Ruvianne Mercado"
 description              : &description "Bay Area Catholic Artist"
-url                      : https://contemplans.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ruvianne.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ruvianne/contemplans.github.io"
+repository               : "ruvianne/ruvianne.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
