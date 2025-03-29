@@ -8,17 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Applied Math PhD student and NSF Graduate Research Fellow at UC Berkeley, where I am advised by Prof. Franziska Weber. 
+I am a Catholic artist in the Bay Area, specializing in iconography, pencil sketches, and digital art. 
 
-Check out [MLniCS](https://github.com/MLniCS/MLniCS), a library for creating physics-informed neural networks for parameterized reduced order models which I contribute to!
-
-**Education:**
-* M.S. Mathematical Sciences, Carnegie Mellon University
-* B.S. Mathematical Sciences, Carnegie Mellon University
-
-**My interests include:**
-- Numerical Methods for PDEs
-- Optimization
-- Machine Learning for Scientific Computing
-- Reduced Order Models
-- Applications to Liquid Crystals
+You can check out some of my work [here](https://ruvianne.github.io/artwork/)!
