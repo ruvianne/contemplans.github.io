@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Artwork"
 permalink: /artwork/
 author_profile: true
